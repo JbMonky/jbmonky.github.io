@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+  
+    background-color: #f9f9f9;
+    color: #141313;
+  
+    width: 980px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 0;
+    color: #a72a2a;
+  }
+  
+  main > h2 {
+    text-align: center;
+    font-size: 25px;
+  }
+  span.parte2{
+    color:aqua;
+  }
